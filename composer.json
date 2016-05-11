@@ -1,0 +1,19 @@
+{
+    "name": "jockchou/photogps",
+    "description": "读取照片的GPS定位信息",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jockchou",
+            "email": "jockchou@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}

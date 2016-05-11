@@ -49,6 +49,6 @@ var_dump($pg->coordinate()); //bool(false)
 
 # 3. License
 
-Simplon/Mysql is freely distributable under the terms of the MIT license.
+jockchou/photogps is freely distributable under the terms of the MIT license.
 
 Copyright (c) 2016 jockchou ([jockchou@qq.com](mailto:jockchou@qq.com))
